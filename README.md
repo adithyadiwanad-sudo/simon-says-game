@@ -25,4 +25,4 @@ https://adithyadiwanad-sudo.github.io/simon-says-game/
 5. The game ends if you click the wrong button, it shows the highest score!! and click any key to restart!!
 
 ## Project Purpose
-This project was built to practice DOM manipulation, event handling, arrays, functions, and basic game logic in JavaScript.
+This project was built to practice DOM manipulation, event handling, arrays, functions, and basic game logic in JavaScript. and for fun
