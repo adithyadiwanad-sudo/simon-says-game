@@ -22,7 +22,7 @@ https://adithyadiwanad-sudo.github.io/simon-says-game/
 2. Watch the color sequence carefully.
 3. Repeat the same sequence by clicking the colored buttons.
 4. The sequence increases by one step every level.
-5. The game ends if you click the wrong button.
+5. The game ends if you click the wrong button, it shows the highest score!! and click any key to restart!!
 
 ## Project Purpose
 This project was built to practice DOM manipulation, event handling, arrays, functions, and basic game logic in JavaScript.
